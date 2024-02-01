@@ -1,0 +1,10 @@
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\bin\Debug\Joy Nelaton Lab1B.exe.config
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\bin\Debug\Joy Nelaton Lab1B.exe
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\bin\Debug\Joy Nelaton Lab1B.pdb
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\bin\Debug\Joy Nelaton Lab1B.xml
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy Nelaton Lab1B.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy_Nelaton_Lab1B.Resources.resources
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy Nelaton Lab1B.vbproj.GenerateResource.Cache
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy Nelaton Lab1B.exe
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy Nelaton Lab1B.xml
+D:\PROYECTOS VB\Joy Nelaton Lab1B\Joy Nelaton Lab1B\obj\Debug\Joy Nelaton Lab1B.pdb
